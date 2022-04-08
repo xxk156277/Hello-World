@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T09:33:05.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="HcCugU1NKqnFM_XBpMPz" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T09:33:59.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="iA-hFjcDl9L1xQ42LhPB" version="17.3.0" type="github">
   <diagram id="-BFLgqaRtH_zkLjJtSHs" name="Page-1">
     <mxGraphModel dx="1822" dy="5561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2581,10 +2581,10 @@
         <mxCell id="wFoKaWjCn3Xxan7kZjdA-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2999999999999798;arrowSize=0.2384848484848452;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="930.11" y="-4088.36" width="35" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="wFoKaWjCn3Xxan7kZjdA-13" value="可视化展示在教师端" style="html=1;" vertex="1" parent="1">
+        <mxCell id="wFoKaWjCn3Xxan7kZjdA-13" value="可视化展示" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="969" y="-4124" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wFoKaWjCn3Xxan7kZjdA-14" value="系统提醒学生" style="html=1;" vertex="1" parent="1">
+        <mxCell id="wFoKaWjCn3Xxan7kZjdA-14" value="系统提醒" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="969" y="-4031.3" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wFoKaWjCn3Xxan7kZjdA-17" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2999999999999798;arrowSize=0.2384848484848452;rotation=30;" vertex="1" parent="1">
@@ -2601,6 +2601,12 @@
         </mxCell>
         <mxCell id="wFoKaWjCn3Xxan7kZjdA-23" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="803.24" y="-4065.3" width="40" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="wFoKaWjCn3Xxan7kZjdA-25" value="教师" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="915" y="-4118.36" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wFoKaWjCn3Xxan7kZjdA-27" value="学生" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="915" y="-4011.2999999999997" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
