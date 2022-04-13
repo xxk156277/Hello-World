@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T13:09:26.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="35banR-2tYemfwuvmU4U" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T13:12:59.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="D4gE7zdUQJ8pil9cJ_ea" version="17.4.2" type="github">
   <diagram id="-BFLgqaRtH_zkLjJtSHs" name="Page-1">
     <mxGraphModel dx="1822" dy="5962" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2612,10 +2612,37 @@
           <mxGeometry x="694.24" y="-4882" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zrWOrDO474ooZy-ntepF-2" value="教师" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="301" y="-4882" width="100" height="40" as="geometry" />
+          <mxGeometry x="286" y="-4882" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zrWOrDO474ooZy-ntepF-3" value="课程" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="497.43" y="-4882" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-5" value="教师ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-4780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrWOrDO474ooZy-ntepF-5" target="zrWOrDO474ooZy-ntepF-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="-4786" as="sourcePoint" />
+            <mxPoint x="345" y="-4836" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-11" value="姓名" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="286" y="-4780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-12" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="402.37" y="-4780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrWOrDO474ooZy-ntepF-11" target="zrWOrDO474ooZy-ntepF-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="238.37" y="-4768" as="sourcePoint" />
+            <mxPoint x="344.37" y="-4830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrWOrDO474ooZy-ntepF-12" target="zrWOrDO474ooZy-ntepF-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="346" y="-4770" as="sourcePoint" />
+            <mxPoint x="386" y="-4823" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
