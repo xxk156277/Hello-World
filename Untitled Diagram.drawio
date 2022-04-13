@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T13:53:06.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Gt3ZD6uB1LCuFf1gDlJQ" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T13:56:15.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="gZ8dxy8foQGVsU6JiTVD" version="17.4.2" type="github">
   <diagram id="-BFLgqaRtH_zkLjJtSHs" name="Page-1">
-    <mxGraphModel dx="2431" dy="6689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2770" dy="6870" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2939,6 +2939,52 @@
         </mxCell>
         <mxCell id="zrWOrDO474ooZy-ntepF-100" value="课程类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="747" y="-5291" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-101" value="章节" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="863.24" y="-5193" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-103" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="671" y="-5195" width="92" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-104" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zrWOrDO474ooZy-ntepF-103" target="zrWOrDO474ooZy-ntepF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="648.4099999999999" y="-5159" as="sourcePoint" />
+            <mxPoint x="592.3700000000003" y="-5160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-105" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="zrWOrDO474ooZy-ntepF-104">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-106" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrWOrDO474ooZy-ntepF-103" target="zrWOrDO474ooZy-ntepF-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="683.25" y="-5030.5" as="sourcePoint" />
+            <mxPoint x="840" y="-5174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-107" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="zrWOrDO474ooZy-ntepF-106">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-12" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-109" value="章节ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="992" y="-5241" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-111" value="课程资源" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="992" y="-5143" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-112" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrWOrDO474ooZy-ntepF-109" target="zrWOrDO474ooZy-ntepF-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1045.25" y="-5190" as="sourcePoint" />
+            <mxPoint x="980.25" y="-5164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrWOrDO474ooZy-ntepF-113" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.998;entryY=0.621;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zrWOrDO474ooZy-ntepF-111" target="zrWOrDO474ooZy-ntepF-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1016.7461103560222" y="-5196.8174007179405" as="sourcePoint" />
+            <mxPoint x="973.2399999999998" y="-5173" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
