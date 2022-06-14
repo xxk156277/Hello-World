@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T15:02:34.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="RupK5ny6ZghaHIcJGAHM" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T15:03:44.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="pewn9LFhnUvhaEM7ycJX" version="19.0.2" type="github">
   <diagram id="-BFLgqaRtH_zkLjJtSHs" name="Page-1">
     <mxGraphModel dx="1020" dy="7112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -3494,10 +3494,10 @@
         <mxCell id="11RJshmBWD1Ox4zHV-mB-10" value="开心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="831.31" y="-3939" width="75" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="11RJshmBWD1Ox4zHV-mB-11" value="厌恶" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="11RJshmBWD1Ox4zHV-mB-11" value="恐惧" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="831.31" y="-4023" width="75" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="11RJshmBWD1Ox4zHV-mB-12" value="恐惧" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="11RJshmBWD1Ox4zHV-mB-12" value="厌恶" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="831.31" y="-3981" width="75" height="21" as="geometry" />
         </mxCell>
         <mxCell id="11RJshmBWD1Ox4zHV-mB-13" value="中性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -3572,10 +3572,10 @@
         <mxCell id="r3P-BCziaclUwENjBclR-99" value="不听课" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="703" y="-4065" width="75" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="6ZJc-7rmNdZN6hVN78GZ-1" value="消极" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="6ZJc-7rmNdZN6hVN78GZ-1" value="异常" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="703" y="-4044" width="75" height="41.7" as="geometry" />
         </mxCell>
-        <mxCell id="6ZJc-7rmNdZN6hVN78GZ-2" value="积极" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="6ZJc-7rmNdZN6hVN78GZ-2" value="消极" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="703" y="-4001.4" width="75" height="41.7" as="geometry" />
         </mxCell>
       </root>
